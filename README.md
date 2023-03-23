@@ -17,5 +17,4 @@ The task was to consider a peer reviewed research paper, implement the methodolo
 ## Improvised Visualization
 The below section showcases some of the improved methods to showcase plots sideby keeping the crux of the methodology in mind
 
-https://user-images.githubusercontent.com/95454351/227352547-02acecf9-886d-4a09-b484-10e6d78ab996.png
-https://user-images.githubusercontent.com/95454351/227352552-1c1e78c8-78aa-4ca2-a69b-6865f1ddbda0.png
+![Rplot1](https://user-images.githubusercontent.com/95454351/227352547-02acecf9-886d-4a09-b484-10e6d78ab996.png)
