@@ -30,6 +30,9 @@ The below 2 plots are just the improved versions of the above plots, where in a 
 <img src="https://user-images.githubusercontent.com/95454351/227352554-77ad3729-609d-4bd1-b3c4-240e7417298c.png" width="356" height="275"> |
 <img src="https://user-images.githubusercontent.com/95454351/227352556-3453d091-1c49-4638-a41e-3e7305372bd4.png" width="356" height="275">
 
+### Deterministic Anonymization
+This methodology simply applies a combination of K-means and KNN methods to replace the actual data point with this centroid consider a K=3 including the considered Data point. To demonstrate this method, the author has considered scatter plots. Here the first 2 plots demonstrate the scatter plot with and with out anonymization, where as the next 2 plots demonstrate the improvised versions of the plots which has a regression line and a correlation metric showcasing the preservation of the distribution of the data even after the application of the method.
+
 <img src="https://user-images.githubusercontent.com/95454351/227352559-1eafbb16-8f1c-4fd3-858d-aeb3437d44ed.png" width="356" height="275"> |
 <img src="https://user-images.githubusercontent.com/95454351/227352561-c3875340-d4ce-4c96-ac89-5d02512bd3ab.png" width="356" height="275">
 
