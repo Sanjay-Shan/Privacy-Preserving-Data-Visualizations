@@ -42,6 +42,6 @@ This methodology simply applies a combination of K-means and KNN methods to repl
 ### Probabilistic Anonymization
 THis approach most simplest of all, as it just adds a random noise component to the data to ensure privacy preservation. For more details around the technique please refer to the presentation provided in the repo. Here I have provided just 2 plots without before and after comparision as the reason was to just showcase the anonymization technique and not to showcase the improvised visualization.  
 
-<img src="https://user-images.githubusercontent.com/95454351/227352572-70302873-c46a-43b1-b6e7-8f1acf15203d.png" height="275"> |
-<img src="https://user-images.githubusercontent.com/95454351/227352567-2b9c7c0f-e392-47a0-838f-91ce0d6cbd27.png" width="356" height="275">
+<img src="https://user-images.githubusercontent.com/95454351/227352574-51a71bfb-1e3f-4fdb-a370-37104b59043d.png" width="356" height="275"> |
+<img src="https://user-images.githubusercontent.com/95454351/227352572-70302873-c46a-43b1-b6e7-8f1acf15203d.png" width="356" height="275">
 
