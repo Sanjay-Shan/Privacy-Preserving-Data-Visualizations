@@ -21,8 +21,9 @@ The below section showcases some of the improved methods to showcase plots sideb
 <img src="https://user-images.githubusercontent.com/95454351/227352552-1c1e78c8-78aa-4ca2-a69b-6865f1ddbda0.png" width="356" height="275">
 
 
-![Rplot2](https://user-images.githubusercontent.com/95454351/227352552-1c1e78c8-78aa-4ca2-a69b-6865f1ddbda0.png)
-![Rplot3](https://user-images.githubusercontent.com/95454351/227352554-77ad3729-609d-4bd1-b3c4-240e7417298c.png)
+<img src="https://user-images.githubusercontent.com/95454351/227352552-1c1e78c8-78aa-4ca2-a69b-6865f1ddbda0.png" width="356" height="275"> |
+<img src="https://user-images.githubusercontent.com/95454351/227352554-77ad3729-609d-4bd1-b3c4-240e7417298c.png" width="356" height="275">
+
 ![Rplot4](https://user-images.githubusercontent.com/95454351/227352556-3453d091-1c49-4638-a41e-3e7305372bd4.png)
 ![Rplot5](https://user-images.githubusercontent.com/95454351/227352559-1eafbb16-8f1c-4fd3-858d-aeb3437d44ed.png)
 ![Rplot6](https://user-images.githubusercontent.com/95454351/227352561-c3875340-d4ce-4c96-ac89-5d02512bd3ab.png)
